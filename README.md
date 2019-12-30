@@ -19,7 +19,7 @@ or
 
 ## How to install
 
-In the Docsify index.html include the Phaser and DocsifyPhaser plugin by adding the script reference:
+In the Docsify index.html include DocsifyPhaser plugin by adding the script reference:
 
 ```html
 <!-- DocsifyScript plugin -->
