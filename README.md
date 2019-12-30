@@ -5,7 +5,16 @@ Loads the Javascript file into the current markdown file.
 The usage is as simple as:
 
 ```
-<!-- SCRIPT(src path) -->
+<!-- SCRIPT(url) -->
+```
+
+the url can be local or remote:
+```
+<!-- SCRIPT(lib/mylib.js) -->
+
+or
+
+<!-- SCRIPT(http://myaddress/mylib.js) -->
 ```
 
 ## How to install
